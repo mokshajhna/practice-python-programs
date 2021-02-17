@@ -1,4 +1,2 @@
-n  = input("enter the value")
-print(n)
-m=input("another value")
-print(m,n)
+n=input("enter your name":)
+print("Hello ",n)
