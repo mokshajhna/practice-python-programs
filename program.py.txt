@@ -1,2 +1,4 @@
 n  = input("enter the value")
 print(n)
+m=input("another value")
+print(m,n)
